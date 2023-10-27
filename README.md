@@ -1,4 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/d3/88/4c/d3884c7daabe848c2104b608fe5f2f2b.jpg)
+<div class="center">
+    <img src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif" alt="Centered Image">
+  </div>
 <h1 align="center">Hi 👋, I'm Dilshan Madhusanka</h1>
 <h3 align="center">A Computer Engineering undergraduate in University of Ruhuna</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216"/>
