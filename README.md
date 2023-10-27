@@ -1,5 +1,5 @@
 <div class="center">
-    <img src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif" alt="Centered Image">
+    <img height = 400px width = 1000px src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif" alt="Centered Image">
   </div>
 <h1 align="center">Hi 👋, I'm Dilshan Madhusanka</h1>
 <h3 align="center">A Computer Engineering undergraduate in University of Ruhuna</h3>
