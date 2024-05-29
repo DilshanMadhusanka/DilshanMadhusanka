@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MERN , Android**
+- 💬 Ask me about **MERN , .NET, Android**
 
 - 📫 How to reach me **dilshan32322@gmail.com**
 
