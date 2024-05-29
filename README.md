@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MERN , .NET, Android**
+- 💬 Ask me about **.NET, MERN, Flutter**
 
-- 📫 How to reach me **dilshan32322@gmail.com**
+- 📫 How to reach me **dilshanmadhusankaherath@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
